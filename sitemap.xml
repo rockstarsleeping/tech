@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://tech.com/index.html</loc>
+    <lastmod>2017-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tech.com/images/1920x1080-technology_computer_circuit_boards_glowing-27961.jpg</loc>
+    <lastmod>2017-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tech.com/images/corsair_logo_hi_tech_brand_101490_1280x720.jpg</loc>
+    <lastmod>2017-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tech.com/images/hd-pics-photos-technology-best-science-attractive-hd-desktop-background-wallpaper.jpg</loc>
+    <lastmod>2017-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tech.com/images/hd-pics-photos-blue-digital-technology-dark-desktop-background-wallpaper.jpg</loc>
+    <lastmod>2017-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
